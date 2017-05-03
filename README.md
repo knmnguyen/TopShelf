@@ -9,7 +9,7 @@ For the final project, you will be creating a basic, functional website. The sit
 - There should be a healthy amount of copy text, images, and graphics.
 - All work must be original. Any evidence of plagiarism will result in a 0 on the project and a report sent to the [Office of Student Rights & Responsibilities](http://www.osrr.calpoly.edu/plagiarism). (The only exception to this is if you decide to re-design an existing website.)
 - All work that isn't yours should be properly cited. Please give credit to photo authors and sources of used code.
-    - Keep in mind that most boilerplate code like Bootstrap or JQuery are licensed under specific open source licenses. Most of the time these licenses have requirements such as providing the license text in the comments of the source. You should adhere to these requirements. The [Open Source Initiative](https://opensource.org/licenses) site is a great resource if you have any questions. 
+    - Keep in mind that most boilerplate code like Bootstrap or JQuery is licensed under specific open source licenses. Most of the time these licenses have requirements such as providing the license text in the comments of the source. You should adhere to these requirements. The [Open Source Initiative](https://opensource.org/licenses) site is a great resource if you have any questions. 
 - The website **cannot be**:
     - a portfolio
     - a slideshow (if you plan on showcasing many images, please provide captions and copy to accompany the images)
