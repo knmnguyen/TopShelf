@@ -71,8 +71,8 @@ Commits must be pushed to this repository to receive credit for the lab and for 
 |---------|---------|
 | External css created and written appropriately. All styling done in css (2) |   |
 | Styling is cohesive throughout site (2)                                     |   |
-| Information is styled to enhance readability                                |   |
-| Commented appropriately                                                     | &nbsp; |
+| Information is styled to enhance readability (2)                            |   |
+| Commented appropriately (1)                                                 | &nbsp; |
 
 ### HTML
 | Requirement | Score |
@@ -89,6 +89,6 @@ Commits must be pushed to this repository to receive credit for the lab and for 
 | Everything uploaded and tracked on GitHub (1)                    | &nbsp; |
 
 ### Total
-| Total Grade |
+| Total Grade (50) |
 |-------|
 |   &nbsp;   |
