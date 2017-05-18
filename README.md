@@ -4,12 +4,12 @@
 For the final project, you will be creating a basic, functional website. The site should be based on a single, cohesive theme and must follow these guidelines:
 
 - The site has at least 4 html pages (including the main `index.html`)
-- There is a navigation system that is consistent throughout the site. It must be user-friendly and syntactically semantic (ie. use the `nav` tag)
+- There is a navigation system that is consistent throughout the site. It must be user-friendly and syntactically semantic (i.e. use the `nav` tag)
 - All styling must be done in a linked, external CSS file. No inline or embedded CSS is allowed.
 - There should be a healthy amount of copy text, images, and graphics.
 - All work must be original. Any evidence of plagiarism will result in a 0 on the project and a report sent to the [Office of Student Rights & Responsibilities](http://www.osrr.calpoly.edu/plagiarism). (The only exception to this is if you decide to re-design an existing website.)
 - All work that isn't yours should be properly cited. Please give credit to photo authors and sources of used code.
-    - Keep in mind that most boilerplate code like Bootstrap or JQuery is licensed under specific open source licenses. Most of the time these licenses have requirements such as providing the license text in the comments of the source. You should adhere to these requirements. The [Open Source Initiative](https://opensource.org/licenses) site is a great resource if you have any questions. 
+    - Keep in mind that most boilerplate code like Bootstrap or JQuery is licensed under specific open source licenses. Most of the time these licenses have requirements such as providing the license text in the comments of the source. You should adhere to these requirements. The [Open Source Initiative](https://opensource.org/licenses) site is a great resource if you have any questions.
 - The website **cannot be**:
     - a portfolio
     - a slideshow (if you plan on showcasing many images, please provide captions and copy to accompany the images)
@@ -22,7 +22,7 @@ For the final project, you will be creating a basic, functional website. The sit
 Begin working on the project. Determine what your website will be about. Before you continue with any part of the project, you must present your idea to the instructor for approval. Once you have approval, you can then start working on wire-framing your site and collecting assets. If you plan on re-designing a website, collect screenshots of the original website.
 
 #### Deliverables
-You should complete at least 4 commits in your project git repository. These commits may not include a lot of code, but they should show evidence of your working on the project (ie images in the image file, digital wire-frames, etc.).
+You should complete at least 4 commits in your project git repository. These commits may not include a lot of code, but they should show evidence of your working on the project (e.g. images in the image folder, digital wire-frames, etc.).
 
 These commits must be pushed to this repository to receive credit for lab this week.
 
