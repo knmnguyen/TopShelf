@@ -1,0 +1,33 @@
+li a {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  margin: 10%;
+  font-family: Helvetica;
+  font-size: 1em;
+  font-weight: bold;
+  margin: 8% 30% 0% 200%;
+  padding: 4px 80px;
+  color: black;
+  float: left;
+  width: 100%;
+}
+
+li {
+  display: inline-block;
+}
+
+.container_main {
+  display: table;
+  margin: 0 auto;
+  z-index: "1";
+}
+
+.container_main p {
+  display: inline-block;
+  background-color: red;
+  padding: 10px 10px;
+  font-family: Helvetica;
+  z-index: "2";
+  margin-left: -320px;
+}
