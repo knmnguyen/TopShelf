@@ -31,3 +31,21 @@ li {
   z-index: "2";
   margin-left: -320px;
 }
+
+.thumbnails {
+  margin: 0 auto;
+  display: table;
+}
+
+#thumb-b, #thumb-s, #thumb-p {
+  height: 300px;
+  width: auto;
+  display: inline-block;
+  margin-left: 35px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+#thumb-b {
+  margin-left: 0px !important;
+}
