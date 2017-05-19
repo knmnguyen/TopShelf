@@ -1,0 +1,46 @@
+li a {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  margin: 10%;
+  font-family: Helvetica;
+  font-size: 1em;
+  font-weight: bold;
+  margin: 8% 30% 0% 30%;
+  padding: 4px 80px;
+  color: black;
+  float: left;
+  width: 100%;
+}
+
+li {
+  display: inline-block;
+}
+
+nav {
+  background-color: white;
+  border-style: double;
+  width: 0% auto;
+  margin-top: -1.5%;
+  margin-left: -1%;
+  margin-right: -2%;
+}
+
+.flex-1 {
+  display: -webkit-flex;
+  display: flex;
+  width: 2000px;
+}
+
+.flex-container {
+  display: -webkit-flex;
+  display: flex;
+  width: 100px;
+  margin-left: 250px;
+  margin-top: 20px;
+}
+
+#flex-main {
+  width: 1200px;
+  height: auto;
+}
