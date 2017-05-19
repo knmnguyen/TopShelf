@@ -35,6 +35,7 @@ li {
 .thumbnails {
   margin: 0 auto;
   display: table;
+  font-family: 'Patua One', cursive;
 }
 
 #thumb-b, #thumb-s, #thumb-p {
@@ -48,4 +49,10 @@ li {
 
 #thumb-b {
   margin-left: 0px !important;
+}
+
+.quick_info {
+  display: table;
+  margin: 0 auto;
+
 }
