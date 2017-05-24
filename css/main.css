@@ -17,7 +17,10 @@ h2 {
 }
 
 h3 {
-
+	text-align: right;
+	font-family: 'Allerta', sans-serif;
+	font-size: 1.5em;
+	color: red;
 }
 
 p {
@@ -74,10 +77,23 @@ nav a {
 /** Center Text Container **/
 .text_container {
 	width: 65%;
-	margin: auto;
-	padding: 50px;
+	margin: 80px auto;
+	padding: 70px 50px;
+	background-color: black;
 }
 
+.text_container p {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 600;
+	font-size: 1.2em;
+	line-height: 1.6em;
+	color: white;
+}
+
+.text_container span {
+	font-size: 1.5em;
+	color: red;
+}
 
 /** Thumbnails **/
 .thumbnails {
