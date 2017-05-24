@@ -1,58 +1,108 @@
-li a {
-  display: inline-block;
+body {
+	font-family: helvetica, sans-serif;
+	color: black;
+}
+
+
+/** Typography **/
+h1{
+	font-family: Helvetica, sans-serif;
+	color: black;
+	font-size: 2.5em;
+	font-style: oblique;
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+p {
+	line-height: 22px;
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: gray;
+}
+
+
+/** Head & Nav **/
+#logo {
+  position: absolute;
+	top: 0;
+	left: 0;
+}
+
+nav {
   text-align: center;
+  border-bottom-style: double;
+  padding: 47px;
+  margin-bottom: 5%;
+}
+
+nav a {
   text-decoration: none;
-  margin: 10%;
-  font-family: Helvetica;
-  font-size: 1em;
+  padding: 5%;
   font-weight: bold;
-  margin: 8% 30% 0% 200%;
-  padding: 4px 80px;
-  color: black;
-  float: left;
-  width: 100%;
 }
 
-li {
-  display: inline-block;
+/** Main Photo **/
+.main_photo_container {
+	position: relative;
+	text-align: center;
 }
 
-.container_main {
-  display: table;
-  margin: 0 auto;
-  z-index: "1";
+.overset {
+	position: absolute;
+  bottom: 50px;
+  left: 850px;
 }
 
-.container_main p {
-  display: inline-block;
-  background-color: red;
-  padding: 10px 10px;
-  font-family: Helvetica;
-  z-index: "2";
-  margin-left: -320px;
+.overset p {
+	background: red;
+	padding: 10px;
 }
 
+
+/** Center Text Container **/
+.text_container {
+	width: 65%;
+	margin: auto;
+	padding: 50px;
+}
+
+
+/** Thumbnails **/
 .thumbnails {
-  margin: 0 auto;
-  display: table;
-  font-family: 'Patua One', cursive;
+	text-align: center;
 }
 
-#thumb-b, #thumb-s, #thumb-p {
-  height: 300px;
-  width: auto;
-  display: inline-block;
-  margin-left: 35px;
-  margin-top: 100px;
-  margin-bottom: 100px;
+.thumbnails img {
+	padding: 20px;
 }
 
-#thumb-b {
-  margin-left: 0px !important;
+#thumb-b:hover {
+  content: url('../images/s_hover.jpg');
 }
 
-.quick_info {
-  display: table;
-  margin: 0 auto;
+#thumb-s:hover {
+  content: url('../images/s_hover.jpg');
+}
 
+#thumb-p:hover {
+  content: url('../images/s_hover.jpg');
+}
+
+/** Wrapper for margins for –lookbook.html– **/
+.wrapper {
+	width: 100%;
+	margin: auto;
+	padding: 20px 250px;
 }
