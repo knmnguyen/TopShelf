@@ -121,7 +121,7 @@ nav a {
   content: url('../images/s_hover.jpg');
 }
 
-/** Wrapper for margins for –lookbook.html– **/
+/** Wrapper for margins for history.html– **/
 .wrapper {
 	width: 100%;
 	margin: 0 auto;
@@ -131,11 +131,32 @@ nav a {
 	text-align: center;
 }
 
-/**----------lookbook.html----------**/
+/**----------history.html----------**/
 
 #opening_img {
 	display: table;
 	margin: 0px auto;
 	width: 90%;
+}
 
+.container {
+	width: 100%;
+}
+
+.overlay_text {
+	position: absolute;
+  left: 50px;
+}
+
+.overlay_text p {
+	padding: 10px;
+	font-family: 'Source Sans Pro';
+	color: gray;
+	width: 50%;
+}
+
+.container img {
+	display: inline-block;
+	float: right;
+	margin: 80px 40px;
 }
