@@ -60,12 +60,13 @@ a:hover {
 nav {
   text-align: center;
   border-bottom-style: double;
-  padding: 47px;
+	margin-top: 50px;
+	margin-bottom: 80px;
 }
 
 nav a {
   text-decoration: none;
-  padding: 5%;
+  padding: 3.7%;
   font-weight: bold;
 }
 
@@ -144,7 +145,7 @@ nav a {
 	text-align: center;
 }
 
-/**----------history.html----------**/
+/**----------bape.html----------**/
 
 #opening_img {
 	display: table;
