@@ -15,7 +15,7 @@ h1{
 
 h2 {
 	font-family: 'Source Sans Pro';
-	font-size: 1.3em;
+	font-size: 1.2em;
 	line-height: 1.8em;
 }
 
@@ -124,7 +124,7 @@ nav a {
 }
 
 #thumb-b:hover {
-  content: url('../images/s_hover.jpg');
+  content: url('../images/b_hover.jpg');
 }
 
 #thumb-s:hover {
@@ -159,6 +159,7 @@ nav a {
 	width: 820px;
 	margin-top: 120px;
 	margin-left: 50px;
+	padding-left: 20px;
 	}
 
 .overlay_text h2, h4 {
@@ -173,7 +174,7 @@ nav a {
 	float: right;
 	margin: 80px 100px;
 	margin-bottom: 0px;
-	width: 500px;
+	width: 550px;
 }
 
 .bio {
@@ -186,15 +187,14 @@ nav a {
 #nigo {
 	display: inline-block;
 	width: 500px;
-	margin: 100px 0px 100px 100px;
+	margin: 100px 20px 100px 100px;
 }
 
 .bio h2 {
 	display: inline-block;
 	float: right;
-	width: 600px;
-	margin-top: 160px;
-	margin-right: 100px;
+	position: absolute;
+
 }
 
 .bio h4 {
@@ -215,7 +215,8 @@ nav a {
 	display: inline-block;
 	float: right;
 	margin: 50px 100px 50px 70px;
-	width: 40%;
+	width: 550px;
+	position: relative;
 }
 
 .celebrity_info h2 {
@@ -223,11 +224,103 @@ nav a {
 	width: 500px;
 	margin-top: 200px;
 	float: right;
+	position: absolute;
+	margin-left: 200px;
 }
 
 .celebrity_info h4 {
 	display: inline-block;
+	position: relative;
+	bottom: -610px;
+	right: -550px;
+	width: 300px;
+	margin-bottom: 120px;
+}
+
+/* Supreme.html */
+.overlay_text {
+	position: absolute;
+  left: 50px;
+	width: 800px;
+	margin-top: 120px;
+	margin-left: 50px;
+	}
+
+.overlay_text h2, h4 {
+	padding: 10px;
+	width: 90%;
+	margin-left: 50px;
+	float: right;
+}
+
+.overlay_text_2 {
+	position: absolute;
+  left: 50px;
+	width: 600px;
+	margin-top: 280px;
+	margin-left: 100px;
+}
+
+	.overlay_text_2 h2 {
+		padding: 10px;
+		width: 90%;
+		margin-left: 50px;
+		margin-top: 120px;
+		float: right;
+	}
+
+	.overlay_text_2 h4 {
+		display: inline-block;
+		position: absolute;
+		text-align: center;
+		bottom: -255px;
+		left: 640px;
+		margin: 20px;
+	}
+
+	.bio {
+			position: relative;
+			float: left;
+			clear: right;
+			width: 96%;
+	}
+
+	.bio h2 {
+		display: inline-block;
+		float: right;
+		width: 600px;
+		margin-top: 120px;
+		margin-right: 160px;
+		margin-left: 100px;
+	}
+
+	#james {
+		display: inline-block;
+		width: 420px;
+		margin: 100px 0px 100px 100px;
+	}
+
+	.bio_2 {
+			position: relative;
+			float: left;
+			clear: right;
+			width: 96%;
+	}
+
+	.bio_2 h2 {
+		display: inline-block;
+		float: right;
+		width: 600px;
+		margin-top: -300px;
+		margin-right: 160px;
+		margin-left: -100px;
+	}
+
+.bio_2 h4 {
+	display: inline-block;
+	position: absolute;
 	text-align: center;
-	bottom: 80px;
-	margin: -35px -270px 70px 0px;
+	bottom: 35px;
+	left: -325px;
+	margin: 20px;
 }
