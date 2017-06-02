@@ -344,7 +344,7 @@ nav a {
 #tyler {
 	position: absolute;
 	height: 600px;
-	bottom: -2100px;
+	bottom: -2080px;
 	left: 780px;
 }
 
@@ -368,5 +368,7 @@ nav a {
 	width: 380px;
 	position: relative;
 	left: 30px;
-	bottom: -1100px;
+	bottom: -1080px;
 }
+
+/**PALACE.HTML**/
