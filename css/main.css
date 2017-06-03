@@ -473,9 +473,10 @@ nav a {
 }
 
 .boxes {
-	width: 1500px;
+	width: 1200px;
 	margin-top: 30px;
 	margin-left: 40px;
+	margin-bottom: 200px;
 }
 
 #box1 {
@@ -530,4 +531,37 @@ display: block;
 position: absolute;
 left: 200px;
 top: 280px;
+}
+
+#end {
+	width: 1050px;
+	display: table;
+	margin: 0 auto;
+}
+
+.endspace {
+	margin-top: 40px;
+}
+
+
+#credit {
+	width: 400px;
+	display: inline-block;
+	position: absolute;
+	left: 650px;
+	bottom: -890px;
+}
+
+.logos {
+	width: 200px;
+	margin-left: 400px;
+}
+
+#highs {
+	width: 90%;
+}
+
+#hype {
+	width: 85%;
+	margin-left: 5px;
 }
