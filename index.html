@@ -28,12 +28,32 @@
     <a href="index.html">About</a>
   </nav>
 
-  <div class="main_photo_container">
-    <img id="img_main" src="images/lookbook_main.jpg" alt="Supreme Lookbook">
 
-    <div class="overset">
-      <p>Lookbook of favorite Supreme clothing</p>
-    </div>
+  <div class="w3-content_w3-section" style="max-width:500px">
+      <!--<img class="mySlides" src="images/lookbook_main.jpg"> -->
+      <img class="mySlides" src="images/slide_3.jpg">
+      <img class="mySlides" src="images/slide_5.jpg">
+      <img class="mySlides" src="images/kermit.gif">
+      <img class="mySlides" src="images/slide_6.jpg">
+      <img class="mySlides" src="images/supreme_store.jpg">
+
+
+  <script>
+  var myIndex = 0;
+  carousel();
+
+  function carousel() {
+      var i;
+      var x = document.getElementsByClassName("mySlides");
+      for (i = 0; i < x.length; i++) {
+         x[i].style.display = "none";
+      }
+      myIndex++;
+      if (myIndex > x.length) {myIndex = 1}
+      x[myIndex-1].style.display = "block";
+      setTimeout(carousel, 4000); // Change image every 4 seconds
+  }
+  </script>
   </div>
 
   <div class="text_container">

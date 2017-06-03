@@ -84,25 +84,16 @@ nav a {
 
 /**----------index.html----------**/
 /** Main Photo **/
-.main_photo_container {
-	position: relative;
-	text-align: center;
-	margin-top: 2%;
+
+.w3-content_w3-section {
+	max-width: 800px;
 }
 
-.overset {
-	position: absolute;
-  bottom: 50px;
-  left: 850px;
+.mySlides {
+	width: 170%;
+	display: block;
+	margin-left: 295px;
 }
-
-.overset p {
-	background: red;
-	padding: 10px;
-	font-family: 'Source Sans Pro';
-	color: white;
-}
-
 
 /** Center Text Container **/
 .text_container {
