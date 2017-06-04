@@ -459,9 +459,7 @@ nav a {
 	bottom: -1550px;
 }
 
-
 /* -----------About.html----------------- */
-
 #street_title {
 	display: block;
 	width: 900px;
@@ -509,7 +507,6 @@ nav a {
 	float: left;
 }
 
-
 #box3 {
 	display: inline-block;
 	margin-left: 100px;
@@ -540,9 +537,8 @@ top: 280px;
 }
 
 .endspace {
-	margin-top: 40px;
+	margin-top: 70px;
 }
-
 
 #credit {
 	width: 400px;
@@ -555,6 +551,7 @@ top: 280px;
 .logos {
 	width: 200px;
 	margin-left: 400px;
+	margin-top: 150px;
 }
 
 #highs {
@@ -564,4 +561,13 @@ top: 280px;
 #hype {
 	width: 85%;
 	margin-left: 5px;
+}
+
+.parallax {
+  background-image: url("../images/about.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
