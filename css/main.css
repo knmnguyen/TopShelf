@@ -170,7 +170,7 @@ nav a {
 	margin-top: 120px;
 	margin-left: 170px;
 	padding-left: 20px;
-	}
+}
 
 .overlay_text h2, h4 {
 	padding: 10px;
@@ -206,7 +206,6 @@ nav a {
 	width: 500px;
 	top: 200px;
 	right: 190px;
-
 }
 
 .bio h4 {
@@ -254,75 +253,74 @@ nav a {
   left: 150px;
 	width: 800px;
 	margin-top: 150px;
-	}
-
-	.s_overlay_text h4 {
-		display: inline-block;
-		position: absolute;
-	}
-
-	.s_overlay_text h2 {
-		display: inline-block;
-		position: absolute;
-		width: 780px;
-		margin-top: 50px;
-	}
-
-.s_overlay_text_2 {
-	position: absolute;
-  left: -200px;
-	width: 500px;
-	margin-top: 380px;
-	margin-left: 380px;
 }
 
-	.s_overlay_text_2 h4 {
-		display: inline-block;
-		position: absolute;
-		text-align: center;
-		bottom: -80px;
-		left: -130px;
-		margin: 20px;
-	}
+.s_overlay_text h4 {
+	display: inline-block;
+	position: absolute;
+}
 
-		#james {
-			display: inline-block;
-			width: 380px;
-			position: absolute;
-			left: 170px;
-			bottom: -370px;
-		}
+.s_overlay_text h2 {
+	display: inline-block;
+	position: absolute;
+	width: 780px;
+	margin-top: 50px;
+}
 
-	.s_bio {
-			position: relative;
-			float: left;
-			clear: right;
-			width: 100%;
-			margin-top: 110px;
-	}
+.s_overlay_text_2 {
+position: absolute;
+left: -200px;
+width: 500px;
+margin-top: 380px;
+margin-left: 380px;
+}
 
-	.s_bio h2 {
-		display: inline-block;
-		position: absolute;
-		right: 230px;
-		width: 540px;
-	}
+.s_overlay_text_2 h4 {
+	display: inline-block;
+	position: absolute;
+	text-align: center;
+	bottom: -80px;
+	left: -130px;
+	margin: 20px;
+}
 
-	.s_bio_2 {
-			position: relative;
-			float: left;
-			clear: right;
-			width: 96%;
-	}
+#james {
+	display: inline-block;
+	width: 380px;
+	position: absolute;
+	left: 170px;
+	bottom: -370px;
+}
 
-	.s_bio_2 h2 {
-		display: inline-block;
-		position: absolute;
-		width: 500px;
-		top: 180px;
-		right: 215px;
+.s_bio {
+	position: relative;
+	float: left;
+	clear: right;
+	width: 100%;
+	margin-top: 110px;
+}
 
-	}
+.s_bio h2 {
+	display: inline-block;
+	position: absolute;
+	right: 230px;
+	width: 540px;
+}
+
+.s_bio_2 {
+	position: relative;
+	float: left;
+	clear: right;
+	width: 96%;
+}
+
+.s_bio_2 h2 {
+	display: inline-block;
+	position: absolute;
+	width: 500px;
+	top: 180px;
+	right: 215px;
+}
 
 .s_bio_2 h4 {
 	display: inline-block;
@@ -380,71 +378,72 @@ nav a {
 	margin-top: 150px;
 	}
 
-	.p_overlay_text h4 {
-		display: inline-block;
-		position: absolute;
-		margin-left: 40px;
+.p_overlay_text h4 {
+	display: inline-block;
+	position: absolute;
+	margin-left: 40px;
 	}
 
-	.p_overlay_text h2 {
-		display: inline-block;
-		position: absolute;
-		left: 50px;
-		width: 450px;
-		margin-top: 50px;
+.p_overlay_text h2 {
+	display: inline-block;
+	position: absolute;
+	left: 50px;
+	width: 450px;
+	margin-top: 50px;
 	}
 
-	#palace_open {
-		display: inline-block;
-		float: right;
-		margin: 80px 60px;
-		margin-bottom: 0px;
-		width: 630px;
+#palace_open {
+	display: inline-block;
+	float: right;
+	margin: 80px 60px;
+	margin-bottom: 0px;
+	width: 630px;
 	}
 
-	#lev {
-		margin-left: 90px;
-		margin-top: 110px;
-		width: 700px;
+#lev {
+	margin-left: 90px;
+	margin-top: 110px;
+	width: 700px;
 	}
 
-	.p_bio {
-			position: relative;
-			float: left;
-			clear: right;
-			width: 100%;
-			margin-top: -450px;
-	}
+.p_bio {
+	position: relative;
+	float: left;
+	clear: right;
+	width: 100%;
+	margin-top: -450px;
+}
 
-	.p_bio h2 {
-		display: inline-block;
-		position: absolute;
-		right: 120px;
-		width: 580px;
-	}
+.p_bio h2 {
+	display: inline-block;
+	position: absolute;
+	right: 120px;
+	width: 580px;
+}
 
-	.p_bio_2 {
-			position: relative;
-			float: left;
-			clear: right;
-			width: 96%;
-	}
+.p_bio_2 {
+		position: relative;
+		float: left;
+		clear: right;
+		width: 96%;
+}
 
-	.p_bio_2 h6 {
-		display: inline-block;
-		position: absolute;
-		width: 480px;
-		top: -270px;
-		right: 50px;
-	}
+.p_bio_2 h6 {
+	display: inline-block;
+	position: absolute;
+	width: 480px;
+	top: -270px;
+	right: 50px;
+}
 
-	#p_photo {
-		display: block;
-		position: absolute;
-		bottom: -1850px;
-		height: 600px;
-		right: 200px;
-	}
+#p_photo {
+	display: block;
+	position: absolute;
+	bottom: -1800px;
+	height: 600px;
+	right: 200px;
+	margin-bottom: 20px;
+}
 
 .p_last_wordage {
 	width: 600px;
