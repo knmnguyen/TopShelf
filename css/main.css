@@ -26,8 +26,8 @@ h2 {
 
 h3 {
 	text-align: right;
-	font-family: 'Allerta', sans-serif;
-	font-size: 1.2em;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 1.7em;
 	color: red;
 }
 
@@ -131,15 +131,19 @@ nav a {
 
 #thumb-b:hover {
   content: url('../images/b_hover.jpg');
+	cursor: pointer;
 }
 
 #thumb-s:hover {
   content: url('../images/s_hover.jpg');
+	cursor: pointer;
 }
 
 #thumb-p:hover {
-  content: url('../images/s_hover.jpg');
+  content: url('../images/p_hover.jpg');
+	cursor: pointer;
 }
+
 
 /** Wrapper for margins for history.html– **/
 .wrapper {
@@ -358,9 +362,10 @@ nav a {
 
 #tyler_name {
 	display: block;
-	width: 380px;
+	width: 480px;
 	position: relative;
 	bottom: -1080px;
+	right: 135px;
 }
 
 #tyler:hover {
@@ -564,7 +569,7 @@ top: 280px;
 }
 
 .parallax {
-  background-image: url("../images/about.jpg");
+  background-image: url("../images/parallax.jpg");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
