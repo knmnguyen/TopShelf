@@ -550,7 +550,12 @@ top: 280px;
 	display: inline-block;
 	position: absolute;
 	left: 650px;
-	bottom: -890px;
+	bottom: -990px;
+}
+
+#credit h6 {
+	position: relative;
+	bottom: 40px;
 }
 
 .logos {
