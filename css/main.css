@@ -225,7 +225,7 @@ nav a {
 #metro_boomin {
 	display: inline-block;
 	float: right;
-	margin: 50px 100px 50px 100px;
+	margin: 50px 100px 50px 80px;
 	width: 550px;
 	position: relative;
 }
@@ -265,6 +265,7 @@ nav a {
 	position: absolute;
 	width: 780px;
 	margin-top: 50px;
+	margin-left: 10px;
 }
 
 .s_overlay_text_2 {
