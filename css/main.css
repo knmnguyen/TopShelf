@@ -19,7 +19,7 @@ h1{
 }
 
 h2 {
-	font-family: 'Source Sans Pro';
+	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 1.2em;
 	line-height: 1.8em;
 }
@@ -44,13 +44,13 @@ h5 {
 }
 
 h6 {
-	font-family: 'Source Sans Pro';
+	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 1.1em;
 	line-height: 1.6em;
 }
 
 p {
-	font-family: 'Work Sans';
+	font-family: 'Work Sans', sans-serif;
 	font-size: 7em;
 	line-height: 1.8em;
 	font-weight: bold;
